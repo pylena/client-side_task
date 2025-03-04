@@ -1,4 +1,4 @@
-# overView
+# overview
 A simple JavaScript task manager that allows users to fetch, add, edit, delete, filter, and reorder tasks using **Drag & Drop**. Tasks are stored in **localStorage** for persistence.
 
 ## Features
